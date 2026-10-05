@@ -112,8 +112,12 @@ Copy-Item -Path ./skills/* -Destination .trae/skills -Recurse
 |---|---|---|
 | 同一论文的四种精读结构 | 原文章节、研究逻辑、总览与详读、自定义结构如何组织同一材料；另有中文论文变量和公式解释、答疑及延展稿 | [精读案例](examples/paper-deepread/README.md) |
 | 金融情绪因子公众号资料 | 逐篇摘要如何区分作者观点、原文证据和综合分析；如何保留来源与覆盖限制 | [公众号案例](examples/wechat-summary/README.md) |
+| 人工智能与金融公开资料 | 两篇 CF40 官网对应材料与一篇官网背景资料的摘要、图表解读及综合；微信正文未取得 | [金融 AI 资料案例](examples/wechat-summary/ai-finance/README.md) |
 | 多格式资料定位与银行 AI 文献 | 自建输入的定位、回查和来源比较；公开文献的摘要与研究脉络 | [检索案例](examples/academic-deepsearch/README.md) |
+| 人工智能与企业生产效率 | 22 篇文献的摘要、机制版图、相反发现及文献矩阵；摘要未说明的信息保留未知 | [企业生产效率案例](examples/academic-deepsearch/ai-enterprise-productivity/README.md) |
 | 银行 AI 研究计划书 | 从框架到初稿，以及局部修改、补写和审查；未知条件如何标“待补” | [计划书案例](examples/proposal-writing/README.md) |
+| 十五五期间人工智能在金融领域中的应用 | 从宽泛题目形成总问题、五个子课题和方法数据对应关系，保留实施条件与来源 | [金融 AI 框架案例](examples/proposal-writing/ai-finance-five-year/README.md) |
+| 银行大模型客服方案 | 自制材料的框架、局部修改、补写、审查和模板重组，以及预测研究的信息时点审查 | [写作模式案例](examples/proposal-writing/bank-customer-service/README.md) |
 
 例如，论文笔记不仅说明“使用了中介检验”，还解释变量如何构造、每个系数对应什么量、计算使用什么口径。计划书则把“研究问题—理论机制—变量—方法—数据条件”连接起来，尚未开展的研究始终写为拟检验方案。
 
