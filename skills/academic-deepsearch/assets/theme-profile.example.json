@@ -1,0 +1,24 @@
+{
+  "profile_version": 1,
+  "topic": "",
+  "default_mode": "auto",
+  "language": "zh-CN",
+  "output_format": "markdown",
+  "scope": {
+    "sources": [],
+    "roots": [],
+    "files": [],
+    "domains": []
+  },
+  "date_range": {
+    "start": null,
+    "end": null
+  },
+  "source_priority": [],
+  "exclude": [],
+  "citation_style": "source-link-and-original-locator",
+  "privacy": {
+    "public_search_private_content": false
+  },
+  "notes": "Fill explicit allowed sources before use. Empty scope is not unrestricted permission."
+}

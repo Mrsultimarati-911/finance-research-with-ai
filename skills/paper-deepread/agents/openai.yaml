@@ -1,0 +1,4 @@
+interface:
+  display_name: "金融论文精读与思路延展"
+  short_description: "金融论文精读、逐步答疑与研究思路延展，按用户选择生成笔记和设计文稿"
+  default_prompt: "使用 $paper-deepread 精读我提供的金融论文，按我选择的结构生成笔记，再开展答疑并整理选定方向的论文延展.md。"

@@ -1,0 +1,7 @@
+fastmcp>=2.12,<3
+httpx>=0.27,<1
+beautifulsoup4>=4.12,<5
+lxml>=5,<7
+markdownify>=1,<2
+Pillow>=10,<13
+trafilatura>=2,<3

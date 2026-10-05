@@ -1,0 +1,4 @@
+interface:
+  display_name: "公众号主题资料收集与总结"
+  short_description: "按公众号名单与主题收集图文，生成逐篇详细摘要和金融研究背景综合报告"
+  default_prompt: "使用 $wechat-summary 在我指定的公众号中检索主题相关图文，默认近一年，先逐篇摘要，再输出中文主题综合报告。"

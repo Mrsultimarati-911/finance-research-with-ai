@@ -1,0 +1,6 @@
+interface:
+  display_name: "金融研究计划书写作"
+  short_description: "从研究框架到社科项目论证稿，支持局部修改、补写及证据与可行性审查"
+  default_prompt: "使用 $proposal-writing，围绕这个金融主题先构建研究框架，按已有提纲或模板写作。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+# Replace both absolute paths before adding this section to your host config.
+# Example only. No configuration is changed automatically.
+[mcp_servers.wechat_summary]
+command = '<absolute-path-to-environment-python>'
+args = ['-B', '-X', 'utf8', '<absolute-path-to-skill>/scripts/wechat_mcp.py']
+startup_timeout_sec = 30
+tool_timeout_sec = 120

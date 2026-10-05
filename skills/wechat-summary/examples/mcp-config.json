@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wechat-summary": {
+      "command": "<absolute-path-to-environment-python>",
+      "args": ["-B", "-X", "utf8", "<absolute-path-to-skill>/scripts/wechat_mcp.py"]
+    }
+  }
+}

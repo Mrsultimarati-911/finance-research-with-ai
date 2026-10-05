@@ -1,0 +1,6 @@
+interface:
+  display_name: "资料快查与金融学术深检"
+  short_description: "从文件和公开网页定位资料证据，或阅读金融文献摘要并形成研究版图"
+  default_prompt: "使用 $academic-deepsearch 按我指定的文件或公开来源查找资料，给答案、证据位置及未确认事项；金融综述先逐篇摘要，再形成中文研究版图。"
+policy:
+  allow_implicit_invocation: true

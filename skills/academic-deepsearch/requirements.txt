@@ -1,0 +1,2 @@
+# Python >=3.10. Academic API and text helpers use the standard library.
+# Optional local PDF/DOCX/XLSX readers: requirements-local.txt.
